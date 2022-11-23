@@ -91,7 +91,7 @@ Install this project with:
 **Alelign Ayana**
 
 - GitHub: [alelign ayana](https://github.com/atatm)
-- LinkedIn: [Alelign Ayana](https://linkedin.com/@alelignayana)
+- LinkedIn: [Alelign Ayana](https://www.linkedin.com/in/alelign-ayana)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
