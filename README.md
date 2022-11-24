@@ -26,7 +26,7 @@
 # 📖 Leaderboard <a name="about-project"></a>
 
 
-**Leaderboard** is a web app that displays name and scores submitted by different players. It also allows you to submit your name and your score.
+**Leaderboard** In this Leaderboard list app, we can send and receive data from/to the Leaderboard API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
