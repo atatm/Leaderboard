@@ -1,6 +1,7 @@
 
 <div align="center">
-  <h1>Leaderboard</h1>
+<img src="https://raw.githubusercontent.com/microverseinc/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
+  <h1>Leaderboard Api </h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -10,12 +11,14 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -26,7 +29,7 @@
 # 📖 Leaderboard <a name="about-project"></a>
 
 
-**Leaderboard** is a web app that displays name and scores submitted by different players. It also allows you to submit your name and your score.
+**Leaderboard** In this Leaderboard list app, we can send and receive data from/to the Leaderboard API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -36,6 +39,12 @@
 - CSS
 - JavaScript
 
+### Key Features <a name="key-features"></a>
+
+
+- **[used webpack]**
+- **[es6 with modules]**
+- **[use api for send and to receive data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,6 +104,16 @@ Install this project with:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[make more stylish]**
+- [ ] **[use react]**
+
+<p align="right">(<a href="#readme-top">back to to
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -135,3 +154,4 @@ A list of resources that i find helpful and would like to give credit to :
 This project is [MIT](./License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
