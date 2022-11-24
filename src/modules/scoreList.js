@@ -1,5 +1,5 @@
 export default class ScoresList {
-  async addscore(names, scorevalue) {
+  addscore = async (names, scorevalue) => {
     this.a = '';
     const apiurl = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/atatm/scores';
     fetch(apiurl, {
