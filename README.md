@@ -29,7 +29,7 @@
 # 📖 Leaderboard <a name="about-project"></a>
 
 
-**Leaderboard** In this Leaderboard list app, we can send and receive data from/to the Leaderboard API.
+**Leaderboard** In this complete Leaderboard list app, we can send and receive data from/to the Leaderboard API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -111,7 +111,7 @@ Install this project with:
 
 - [ ] **[make more stylish]**
 - [ ] **[use react]**
-
+- [ ] **[use Database]**
 <p align="right">(<a href="#readme-top">back to to
 
 <!-- CONTRIBUTING -->
